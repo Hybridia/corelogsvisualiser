@@ -1,0 +1,2 @@
+# corelogsvisualiser
+visualize your logs
